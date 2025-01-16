@@ -1,2 +1,2 @@
 # Data_Science_Assignment
-This repository contains all my data science assignments
+This repository contains all basic statistics, hypothesis testing and MLR
